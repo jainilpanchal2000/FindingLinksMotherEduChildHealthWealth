@@ -11,3 +11,9 @@ We have created multiple Reports using powebi to gain insights from this raw NFH
 ● Percentage of non-educated Mothers is highest in the Poorest wealth index category, whereas the percentage of highly educated Mothers is highest in the Richest wealth Category.  
 ● Percentage of severely stunted/wasted/underweight Children is highest in the Poorest wealth index category.  
 ● Percentage of severely stunted Children is highest in the NFHS3 Survey.  
+
+##Contibuters
+Nitish Biradar
+Jainil Panchal
+Ankur Dhakar
+Vinnet Vemula
