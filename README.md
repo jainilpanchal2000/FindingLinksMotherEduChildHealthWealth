@@ -1,19 +1,21 @@
-# Finding Links - Mother Education, Child Health and Socio-Economic Status
 
-In this project We analyzed the National Family Health Survey Data of Children under age five whose mother's were interviewed.
-It contains information about the child's immunnization, health and nutrition data. Also the data for mother of each of these children included.
+## Finding Links between Mother Education, Child Health and Socio-Economic Status
+## Overview
+In this project, we analyzed the National Family Health Survey (NFHS) data of children under the age of five whose mothers were interviewed. The dataset contains information about the child's immunization, health, and nutrition data, as well as data for each child's mother.
+Using PowerBI, we created multiple reports to gain insights from this raw NFHS survey data.
 
-We have created multiple Reports using powebi to gain insights from this raw NFHS Survey data.
-### The key findings from the dataset analysis are as follows:
-● Percentage of non-Educated Mothers is highest in Rural areas.  
-● There is no case of a Mother without education in Kerala in the latest NFHS5 Survey.  
-● Children of Non-Educated Mothers have more chances of stunting/wasting.  
-● Percentage of non-educated Mothers is highest in the Poorest wealth index category, whereas the percentage of highly educated Mothers is highest in the Richest wealth Category.  
-● Percentage of severely stunted/wasted/underweight Children is highest in the Poorest wealth index category.  
-● Percentage of severely stunted Children is highest in the NFHS3 Survey.  
+## Key Findings
+After analyzing the dataset, we found several key insights:
 
-##Contibuters
-Nitish Biradar
-Jainil Panchal
-Ankur Dhakar
-Vinnet Vemula
+- The percentage of non-educated mothers is highest in rural areas.
+- There are no cases of a mother without education in Kerala in the latest NFHS5 survey.
+- Children of non-educated mothers have a higher chance of stunting/wasting.
+-  The percentage of non-educated mothers is highest in the poorest wealth index category, while the percentage of highly educated mothers is highest in the richest wealth category.
+-  The percentage of severely stunted/wasted/underweight children is highest in the poorest wealth index category.
+-  The percentage of severely stunted children is highest in the NFHS3 survey.
+
+###Contributors
+-  Nitish Biradar
+-  Jainil Panchal
+-  Ankur Dhakar
+-  Vinnet Vemula
